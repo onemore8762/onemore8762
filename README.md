@@ -3,7 +3,7 @@
 
   
 ### 🛠 &nbsp; Tech Stack
- 
+ <div>
 <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4783nasp4qwtf22wk2vx0ikgwh298xagjirnkh1jt4&rid=giphy.gif&ct=g" align="right"/>
   
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&labelColor=white&logoColor=C6AC15)&nbsp;
@@ -18,10 +18,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&labelColor=white&logoColor=black)&nbsp;
 ![VisualStudioCode](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC&labelColor=white)&nbsp;
 ![WebStorm](https://img.shields.io/badge/-WebStorm-05122A?style=flat&logo=webstorm&logoColor=007ACC&labelColor=white)&nbsp;
- 
+  </div>
+  
  ### &nbsp; Codewars
   
-![CodeWars](https://www.codewars.com/users/Lukiyky/badges/large)&nbsp;
+![CodeWars](https://www.codewars.com/users/Lukiyky/badges/small)&nbsp;
   
  ### 🤝🏻 &nbsp;Сontact with me
   
