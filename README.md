@@ -27,4 +27,4 @@
   
  ### 🤝🏻 &nbsp;Сontact with me
   
-<a href="https://t.me/den4ik_ch"><img src="https://img.shields.io/badge/-den4ik__qq-05122A?style=for-the-badge&logo=Telegram"/></a>
+<a href="https://t.me/den4ik_ch"><img src="https://img.shields.io/badge/-den4ik__ch-05122A?style=for-the-badge&logo=Telegram"/></a>
